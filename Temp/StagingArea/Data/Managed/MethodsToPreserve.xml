@@ -1,0 +1,72 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="ButtonBehavior">
+			<method name="OnButtonPress"/>
+			<method name="OnButtonPress"/>
+			<method name="OnButtonPress"/>
+		</type>
+		<type fullname="KeptData">
+			<method name="resetValues"/>
+		</type>
+		<type fullname="Shop">
+			<method name="blueBattle"/>
+			<method name="buyAttack"/>
+			<method name="buyHealth"/>
+			<method name="buySpeed"/>
+			<method name="pinkBattle"/>
+			<method name="toggleOff"/>
+		</type>
+		<type fullname="UIGameManager">
+			<method name="Back"/>
+			<method name="buyDash"/>
+			<method name="buyDoubAtt"/>
+			<method name="buyDouble"/>
+			<method name="buyElementPower"/>
+			<method name="buyHalfDamage"/>
+			<method name="buyHealing"/>
+			<method name="buyTime"/>
+			<method name="LoadMainMenu"/>
+			<method name="LoadMainMenu"/>
+			<method name="LoadMainMenu"/>
+			<method name="LoadMainMenu"/>
+			<method name="mouseOff"/>
+			<method name="mouseOff"/>
+			<method name="mouseOff"/>
+			<method name="mouseOff"/>
+			<method name="mouseOff"/>
+			<method name="mouseOff"/>
+			<method name="mouseOff"/>
+			<method name="mouseOff"/>
+			<method name="mouseOff"/>
+			<method name="mouseOff"/>
+			<method name="mouseOverAttack"/>
+			<method name="mouseOverDash"/>
+			<method name="mouseOverDoubleAttack"/>
+			<method name="mouseOverDoubleJump"/>
+			<method name="mouseOverElementalPower"/>
+			<method name="mouseOverHalfDamage"/>
+			<method name="mouseOverHealing"/>
+			<method name="mouseOverHealth"/>
+			<method name="mouseOverSpeed"/>
+			<method name="mouseOverTime"/>
+			<method name="openControls"/>
+			<method name="openControls"/>
+			<method name="openControls"/>
+			<method name="openControls"/>
+			<method name="openControls"/>
+			<method name="openControls"/>
+			<method name="openControls"/>
+			<method name="openControls"/>
+			<method name="openControls"/>
+			<method name="openControls"/>
+			<method name="Play_Button"/>
+			<method name="QuitGame"/>
+			<method name="QuitGame"/>
+			<method name="QuitGame"/>
+			<method name="QuitGame"/>
+			<method name="Resume"/>
+			<method name="Resume"/>
+			<method name="Resume"/>
+		</type>
+	</assembly>
+</linker>
