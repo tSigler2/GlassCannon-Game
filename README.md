@@ -7,3 +7,5 @@ Glass Cannon is a game about a weak glass bowl, the titular Glass Cannon, compet
 strongest fighter of them all. Thoughout the game you fight a variety of bosses to compete your way to the top. A variety of
 upgrades are available to the player in their quest for the grand prize. Presented at the CMII College of Arts & Sciences
 Festival in November 2022.
+
+![OSPq2U](https://user-images.githubusercontent.com/113956397/223919126-19885931-0d32-4867-bd1c-d1a39e2db88c.png)
