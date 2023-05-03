@@ -9,3 +9,5 @@ upgrades are available to the player in their quest for the grand prize. Present
 Festival in November 2022.
 
 ![OSPq2U](https://user-images.githubusercontent.com/113956397/223919126-19885931-0d32-4867-bd1c-d1a39e2db88c.png)
+
+A Windows Download can be Found Here: https://oct-56.itch.io/glass-cannon
